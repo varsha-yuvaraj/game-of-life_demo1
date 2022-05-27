@@ -1,1 +1,1 @@
-"this is a new text file"
+"this is second diff line"
